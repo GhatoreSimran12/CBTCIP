@@ -1,4 +1,5 @@
 This repository serves as a central location for descriptions of completed tasks, categorized into two main areas:
+
 Music Posters: This folder dives deep into the music poster I've created. The description details like:
 Project Title: BeatBurst Music Festival
 Genre: indie pop, alternative rock, and pop rock
